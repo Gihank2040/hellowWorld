@@ -1,2 +1,2 @@
-# hellowWorld
-hellowWorld project for jenkins
+# helloWorld
+helloWorld project for jenkins
